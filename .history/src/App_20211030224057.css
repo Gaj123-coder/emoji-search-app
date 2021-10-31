@@ -1,0 +1,48 @@
+.dec{
+  background-color: rgb(218, 214, 214);
+  width: 800px;
+  height:35px;
+  position: relative;
+  left:19rem;
+  top:5rem;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.dec-child>svg{
+  width:inherit;
+  height:inherit;
+}
+
+.dec-child{
+  height:30px;
+  width:100px;
+}
+
+.dec-child>p{
+  position: relative;
+  left:1rem;
+  display: inline;
+}
+
+.dec-child>hr{
+  width:"50px";
+  border-radius:"200px";
+  height:"2px";
+  background-color:"rgb(14, 211, 162)";
+}
+
+.cir-pos{
+  position: relative;
+  right:1.7rem;
+  bottom: 0.8rem;
+}
+
+.smil-pos{
+  position: relative;
+  right:1rem;
+  bottom: 0.8rem;
+}

@@ -1,0 +1,10 @@
+.emoji{
+    width: 600px;
+    height:350px;
+    position: relative;
+    left:22.1rem;
+    top:6rem;
+    display: grid;
+    grid-template-rows:100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px;
+}

@@ -1,0 +1,10 @@
+.emoji{
+    width: 600px;
+    height:350px;
+    position: relative;
+    left:22.1rem;
+    top:6rem;
+    background-color: rgb(240, 221, 221);
+    display: grid;
+    
+}

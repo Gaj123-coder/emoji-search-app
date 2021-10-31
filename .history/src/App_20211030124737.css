@@ -1,0 +1,14 @@
+.dec{
+  background-color: rgb(218, 214, 214);
+  width:600px;
+  height:30px;
+  position: relative;
+  left:19rem;
+  border-radius:10px;
+  top:5rem;
+}
+
+.dec>div>svg{
+  width:inherit;
+  height:inherit;
+}
